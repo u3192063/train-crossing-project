@@ -1,2 +1,2 @@
-## Restated Problem
+## Redefined Problem
 A rail road crossing needs a simple set of rules that will govern when the gates will go up and down (with flashing lights and bell noises) if a train is on the tracks or nearing the crossing. If the trains are on the tracks the gates will stay down. It will only go up after the train has passed and the tracks are clear. This opening and closing of the gates will also take into account if there is a vehicle on the tracks.
