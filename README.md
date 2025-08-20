@@ -30,3 +30,5 @@ A simple control logic for a rail/road crossing. Gates go down for any hazard su
 - [Improvements & Refinements](Step7_Testing/Improvements-and-Refinements.md)
 
 ## Changelog
+- Added basic structure
+- 
