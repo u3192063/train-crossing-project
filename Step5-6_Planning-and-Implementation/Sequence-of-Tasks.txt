@@ -1,5 +1,5 @@
 Power check:
--- If the power is not ok then go to the fail safe
+- If the power is not ok then go to the fail safe
 
 Fail safe:
  Drive the gate down.
