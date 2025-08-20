@@ -6,7 +6,7 @@
 
 
 ## Description
-A simple control logic for one road and rail crossing. Gates go down for any hazard (train approaching, train on crossing or a vehicle on crossing), and only go up after an all clear.
+A simple control logic for a rail/road crossing. Gates go down for any hazard such as a train approaching, train on crossing or a vehicle on crossing and only go up after an all clear.
 
 ## File Links
  **Step 1 — Exploring the Problem**
