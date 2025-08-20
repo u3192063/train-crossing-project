@@ -1,9 +1,9 @@
-Inputs
+### Inputs:
 | Attempt | Description   |
 | :-----: | :---:   |
 | Seconds | 301           |
 
-Outputs
+### Outputs
 | Attempt | #1    | #2    |
 | :-----: | :---: | :---: |
 | Seconds | 301   | 283   |
