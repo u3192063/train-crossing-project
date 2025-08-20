@@ -1,4 +1,4 @@
-# Context, Constraint and Stakeholder Description
+## Context, Constraint and Stakeholder Description
 
 **Context:** Controlling a rail and road crossing. The gates must go down when a train is coming or is on the tracks and also for when there is a vehicle on the tracks. The gates only go up when the train has fully passed and the tracks are clear.
 
