@@ -1,8 +1,8 @@
 # Train Crossing Project
 
-**Assignment 1: The Engineering Method |**\
-**Student ID: u3192063 |**\
-**Collaborator: Julio**\
+**Assignment 1: The Engineering Method**\
+**Student ID: u3192063**\
+**Collaborator: Julio**
 
 
 ## Description
