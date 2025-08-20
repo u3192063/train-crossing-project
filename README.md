@@ -35,4 +35,5 @@ A simple control logic for a rail/road crossing. Gates go down for any hazard su
 - Edited the description
 - Added Flowchart
 - Added Sequence of task with Word Code
+- Added contents to files
 - Fixed file errors
