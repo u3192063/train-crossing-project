@@ -1,3 +1,5 @@
+SEQUENCE OF TASK
+
 1. Power check:
 - If the power is not ok then go to the fail safe
 
