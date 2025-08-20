@@ -31,4 +31,7 @@ A simple control logic for a rail/road crossing. Gates go down for any hazard su
 
 ## Changelog
 - Added basic structure
-- 
+- Added collaborator to the project
+- Edited the description
+- Added Flowchart
+- Added Sequence of task with Wode Code
