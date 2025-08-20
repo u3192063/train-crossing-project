@@ -29,8 +29,8 @@ A simple control logic for a rail/road crossing. Gates go down for any hazard su
 - [Test Cases](Step7_Testing/Test-Cases.md)
 - [Improvements & Refinements](Step7_Testing/Improvements-and-Refinements.md)
 
-**Reflection**
-- [Reflection](Reflection.md)
+**AI Agent Integration**
+- [Reflection](AI-Agent-Integration/Reflection.md)
 
 ## Changelog
 - Added basic structure
