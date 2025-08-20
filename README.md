@@ -28,3 +28,5 @@ A simple control logic for one road and rail crossing. Gates go down for any haz
 **Step 7 — Testing and Refinement**
 - [Test Cases](Step7_Testing/Test-Cases.md)
 - [Improvements & Refinements](Step7_Testing/Improvements-and-Refinements.md)
+
+## Changelog
