@@ -1,1 +1,7 @@
+## Refinements
+
+- Bell should mute after a few seconds after the gate comes down so it won’t be annoying for waiting drivers or pedestrians.
+- If the gate starts raising and a hazard is detected the gate should default to down.
+- Check if there is a second train inbound and keep the gate down to accommodate it.
+- Keep the 3 second all clear check but it should be adjustable depending on the situation.
 
