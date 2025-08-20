@@ -1,30 +1,30 @@
-Power check:
+1. Power check:
 - If the power is not ok then go to the fail safe
 
-Fail safe:
- Drive the gate down.
- Turn the warning light and bell on.
- Then keep rechecking inputs
+2. Fail safe:
+- Drive the gate down.
+- Turn the warning light and bell on.
+- Then keep rechecking inputs
 
-Read inputs:
- TA = Train Approaching
- ToC = Train on Crossing
- VoC = Vehicle on Crossing
- GateDown, GateUp = Limit switches
+3. Read inputs:
+- TA = Train Approaching
+- ToC = Train on Crossing
+- VoC = Vehicle on Crossing
+- GateDown, GateUp = Limit switches
 
-If TA or ToC or VoC is on:
- Gates go down until GateDown is on or a fault occurs.
- Keep the lights and bell on.
- If fault then gates stay down
+4. If TA or ToC or VoC is on:
+- Gates go down until GateDown is on or a fault occurs.
+- Keep the lights and bell on.
+- If fault then gates stay down
 
-If no hazard:
- Start a short clear buffer for about 3 secs
- If TA, ToC or VoC turns on during the buffer then cancel and go back to read inputs.
+5. If no hazard:
+- Start a short clear buffer for about 3 secs
+- If TA, ToC or VoC turns on during the buffer then cancel and go back to read inputs.
 
-If the clear buffer finishes with no hazards:
- Gates go back up until GateUp is on or a fault occurs
- When fully up it will turn both lights and bells off
- If fault then go back into gate down
+6. If the clear buffer finishes with no hazards:
+- Gates go back up until GateUp is on or a fault occurs
+- When fully up it will turn both lights and bells off
+- If fault then go back into gate down
 
-Loop continuously from read input.
+7. Loop continuously from read input.
 
