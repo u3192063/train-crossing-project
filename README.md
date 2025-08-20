@@ -2,7 +2,8 @@
 
 **Assignment 1: The Engineering Method**\
 **Student ID: u3192063**\
-**Collaborator: julio.romero@canberra.edu.au**
+**Collaborator: julio.romero@canberra.edu.au, 
+u3192063@uni.canberra.edu.au**
 
 
 ## Description
